@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Demo Product",
+    "description": "Description of Demo Product",
+    "tos": "TOS of Demo Product",
+    "availableDates": {
+      "from": "2021-10-20T19:21:23.000Z",
+      "to": "2021-10-26T19:21:23.000Z"
+    },
+    "checkInDate": "2021-10-21T19:21:23.000Z",
+    "checkOutDate": "2021-10-24T19:21:23.000Z",
+    "extraNights": ["2021-10-25T19:22:02.000Z"],
+    "airlineName": "Punta Cana",
+    "flightNumber": "12345",
+    "arrivalDate": "2021-10-21T19:21:23.000Z",
+    "departureDate": "2021-10-24T19:21:23.000Z",
+    "roomType": "1",
+    "numberOfGuests": 1,
+    "upgradeRequested": false,
+    "upgradeType": "",
+    "guestList": [
+      {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john@gmail.com",
+        "phoneNumber": "6784622914",
+        "address": {
+          "address1": "1234 Demo Street",
+          "address2": "",
+          "city": "Demo City",
+          "state": "GA",
+          "zipCode": "30000"
+        },
+        "dateOfBirth": "1998-10-01T19:22:12.000Z",
+        "passportPhoto": "https://www.uscis.gov/sites/default/files/images/article-i9-central/USCIS_US-Passport-Inside_180x241%402x.jpg",
+        "passportNumber": "12311",
+        "shirtSize": "M",
+        "hatSize": "M",
+        "shoeSize": "M",
+        "favoriteSportsTeam": "Real Madrid"
+      }
+    ],
+    "customFields": [
+      {
+        "fieldName": "Custom Field",
+        "fieldValue": "1232"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ADSA",
+    "description": "ASDADASDA",
+    "tos": "ASD",
+    "availableDates": {
+      "from": "2021-10-17T19:45:40.706Z",
+      "to": "2021-10-17T19:45:40.706Z"
+    },
+    "checkInDate": "2021-10-17T19:45:40.706Z",
+    "checkOutDate": "2021-10-17T19:45:40.706Z",
+    "extraNights": ["2021-10-17T19:45:48.543Z"],
+    "airlineName": "Punta Cana",
+    "flightNumber": "123",
+    "arrivalDate": "2021-10-17T19:45:40.706Z",
+    "departureDate": "2021-10-17T19:45:40.706Z",
+    "roomType": "1",
+    "numberOfGuests": 1,
+    "upgradeRequested": false,
+    "upgradeType": "",
+    "guestList": [
+      {
+        "firstName": "ASD",
+        "lastName": "ASD",
+        "email": "ASD@GMAIL.COM",
+        "phoneNumber": "ASD",
+        "address": {
+          "address1": "asd",
+          "address2": "asd",
+          "city": "asd",
+          "state": "asd",
+          "zipCode": "asd"
+        },
+        "dateOfBirth": "2021-10-17T19:45:54.462Z",
+        "passportPhoto": "https://www.uscis.gov/sites/default/files/images/article-i9-central/USCIS_US-Passport-Inside_180x241%402x.jpg",
+        "passportNumber": "ads",
+        "shirtSize": "S",
+        "hatSize": "M",
+        "shoeSize": "L",
+        "favoriteSportsTeam": "asd"
+      }
+    ],
+    "customFields": [
+      {
+        "fieldName": "asd",
+        "fieldValue": "asdaa"
+      }
+    ]
+  }
+]
